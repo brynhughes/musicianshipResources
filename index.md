@@ -4,7 +4,7 @@ title: Musicianship resources
 ---
 
 
-This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
+This site contains online resources for the music theory courses at the University of Miami, including Music Theory I (MTC140), Music Theory II (MTC141), Music Theory III (MTC240), and Music Theory IV(MTC241). This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
 
 # Introduction #
 
