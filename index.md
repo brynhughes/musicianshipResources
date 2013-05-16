@@ -4,7 +4,7 @@ title: Musicianship resources
 ---
 
 
-This site contains online resources for the music theory courses at the University of Miami, including Music Theory I (MTC140), Music Theory II (MTC141), Music Theory III (MTC240), and Music Theory IV(MTC241). This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
+This site contains online resources for the music theory courses at the University of Miami. This site has been "forked" from Kris P. Shaffer's [Musicianship Resources][ShafferOriginal], meaning that most of the material here was originally written by Shaffer, but modifications, maintenance, and additions will be regularly made by me at this site. 
 
 # Introduction #
 
@@ -172,3 +172,5 @@ Writing a music-analytical essay.
 [twelveTone]: twelveTone.html
 [atonalGloss]: atonalGlossary.html
 [clocks]: Graphics/blankClockFaces.pdf
+
+[ShafferOriginal]:http://kris.shaffermusic.com/musicianshipResources/
