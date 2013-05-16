@@ -53,7 +53,7 @@ This site contains online resources for the music theory courses at the Universi
 
 [Harmony in pop/rock music.][popRockHarmony]    
 
-### Handouts and charts ###
+# Handouts and charts #
 
 [Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
 [Functional-bass symbols for common diatonic chords.][funcBassChart]
