@@ -2,8 +2,8 @@
 
 body {
   padding:50px;
-  font:20px/1.5 "Fanwood Text", "Helvetica Neue", Helvetica, Arial, Lato, sans-serif;
-  color:#555;
+  font:14px/1.5 serif;
+  color:#777;
   font-weight:300;
 }
 
@@ -33,7 +33,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#006600;
   font-weight:400;
   text-decoration:none;
 }
